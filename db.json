@@ -1,5 +1,22 @@
 {
-    "users": [{ "id":1, "name":"Myra"}],
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Mr. Wilfred Koss",
+      "id": 4
+    },
+    {
+      "name": "Sophie Mante",
+      "id": 6
+    },
+    {
+      "name": "Paula Marvin I",
+      "id": 7
+    }
+  ],
+  "albums": [],
+  "photos": []
 }
